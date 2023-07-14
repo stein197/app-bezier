@@ -1,11 +1,11 @@
 {
-  "name": "@stein197/app-curve-draw",
+  "name": "@stein197/app-bezier",
   "version": "0.1.0",
   "description": "",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/stein197/js-app-curve-draw.git"
+    "url": "git+https://github.com/stein197/app-bezier.git"
   },
   "keywords": [
     "bezier",
@@ -16,9 +16,9 @@
   "author": "Nail' Gafarov <nil20122013@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/stein197/js-app-curve-draw/issues"
+    "url": "https://github.com/stein197/app-bezier/issues"
   },
-  "homepage": "https://github.com/stein197/js-app-curve-draw#readme",
+  "homepage": "https://github.com/stein197/app-bezier#readme",
   "devDependencies": {
     "typescript": "4.7.4"
   },
