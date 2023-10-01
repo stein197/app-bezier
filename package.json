@@ -18,11 +18,5 @@
   "bugs": {
     "url": "https://github.com/stein197/app-bezier/issues"
   },
-  "homepage": "https://github.com/stein197/app-bezier#readme",
-  "devDependencies": {
-    "typescript": "4.7.4"
-  },
-  "dependencies": {
-    "requirejs": "2.3.6"
-  }
+  "homepage": "https://github.com/stein197/app-bezier#readme"
 }
