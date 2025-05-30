@@ -1,8 +1,8 @@
-import * as bezier from "bezier";
-import * as canvas from "canvas";
-import * as config from "config";
-import * as circle from "circle";
-import * as polyline from "polyline";
+import * as bezier from "@app/bezier";
+import * as canvas from "@app/canvas";
+import * as config from "@app/config";
+import * as circle from "@app/circle";
+import * as polyline from "@app/polyline";
 
 let context: CanvasRenderingContext2D;
 

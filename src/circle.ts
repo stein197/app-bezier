@@ -1,5 +1,5 @@
-import * as config from "config";
-import * as point from "point";
+import * as config from "@app/config";
+import * as point from "@app/point";
 
 export function draw_array(c: CanvasRenderingContext2D, points: point.point[]): void {
 	for (const point of points) {

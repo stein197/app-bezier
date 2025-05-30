@@ -1,7 +1,7 @@
-import * as config from "config";
-import * as context from "context";
-import * as point from "point";
-import * as util from "util";
+import * as config from "@app/config";
+import * as context from "@app/context";
+import * as point from "@app/point";
+import * as util from "@app/util";
 
 let canvas: HTMLCanvasElement;
 let ptr_position_start: point.point | null = null;
