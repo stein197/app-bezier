@@ -3,7 +3,7 @@
 		"baseUrl": "src",
 		"sourceMap": true,
 		"module": "AMD",
-		"outFile": "index.js",
+		"outFile": "public/index.js",
 		"strict": true,
 		"noUnusedLocals": true,
 		"noUnusedParameters": true

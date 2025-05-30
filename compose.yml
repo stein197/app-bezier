@@ -1,0 +1,9 @@
+services:
+    http:
+        image: dragas/thttpd
+        user: ${GUID}
+        volumes:
+            - ./:/var/www/http
+        ports:
+            - 80:80
+        command: -d public -l app.log -D
